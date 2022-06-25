@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Aplikasi Kasir Sederhana</string>
     <string name="masukkan_nama_barang">Masukkan nama barang</string>
     <string name="masukkan_jumlah_barang">Masukkan jumlah barang</string>
     <string name="masukkan_harga_satuan">Masukkan harga satuan</string>
